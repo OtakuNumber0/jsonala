@@ -1,0 +1,36 @@
+{
+   "actors": [
+	
+      {
+         "name":"Brad Pitt",
+         "description": "William Bradley „Brad“ Pitt ist ein US-amerikanischer Schauspieler und Filmproduzent sowie zweifacher Oscarpreisträger. Er ist zudem Mitbegründer und alleiniger Eigentümer der Filmproduktionsfirma Plan B Entertainment.",
+         "dob": "18.12.1963",
+         "country": "USA"
+	 "height": "180"
+	 "spouse": "Angelina Jolie"
+	 "children": "Shiloh Jolie-Pitt"
+	 "image": ""
+      },
+	
+      {
+         "name":"Leonardo DiCaprio",
+         "description": "Leonardo Wilhelm „Leo“ DiCaprio ist ein US-amerikanischer Filmschauspieler, Produzent, Oscar-Preisträger und Umweltschützer. Er zählt zu den bestbezahlten und erfolgreichsten zeitgenössischen Schauspielern Hollywoods und arbeitet regelmäßig mit renommierten Regisseuren zusammen.",
+         "dob": "11.11.1974",
+         "country": "USA"
+	 "height": "183"
+	 "spouse": "Camila Morrone"
+	 "children": ""
+	 "image": ""
+      }
+ 	{
+         "name":"George Clooney",
+         "description": "George Timothy Clooney ist ein US-amerikanischer Schauspieler, Drehbuchautor, Filmproduzent und Filmregisseur. 2006 erhielt er einen Oscar als bester Nebendarsteller in dem Film Syriana, einen weiteren 2013 als Produzent für Argo.",
+         "dob": "06.05.1961",
+         "country": "USA"
+	 "height": "180"
+	 "spouse": "Amal Alamuddin"
+	 "children": "Ella Clooney"
+	 "image": ""
+  
+   ]
+}
